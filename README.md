@@ -1,2 +1,2 @@
-# tinDog---Bootstrap-5
+# tinDog-Bootstrap-5
 Bootstrap - Practice with CSS media queries 
